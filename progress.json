@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T11:00:24.078Z",
+  "generated_at": "2026-10-13T11:02:18.139Z",
   "items": {
     "problem:15": {
       "kind": "problem",
@@ -91,6 +91,58 @@
       "last_pushed_at": "2026-10-13T11:00:20.504Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2025-09-23T09:11:35.431Z",
+      "last_pushed_at": "2025-09-23T09:11:35.431Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2025-09-23T10:45:18.758Z",
+      "last_pushed_at": "2025-09-23T10:45:18.758Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2025-09-23T11:09:26.044Z",
+      "last_pushed_at": "2025-09-23T11:09:26.044Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2025-09-23T15:13:09.098Z",
+      "last_pushed_at": "2025-09-23T15:13:09.098Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
