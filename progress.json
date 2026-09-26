@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T11:02:20.173Z",
+  "generated_at": "2026-10-13T11:02:21.921Z",
   "items": {
     "problem:15": {
       "kind": "problem",
@@ -156,6 +156,61 @@
       "last_pushed_at": "2025-09-25T16:55:54.715Z",
       "language": "python",
       "lines": 23
+    },
+    "math:30": {
+      "kind": "math",
+      "id": "30",
+      "title": "ML Workflow Basics",
+      "difficulty": "easy",
+      "category": "Supervised learning setup",
+      "url": "https://www.deep-ml.com/math-problems/30",
+      "path": "math/0030-ml-workflow-basics",
+      "first_solved_at": "2026-09-26T07:21:46.220Z",
+      "last_pushed_at": "2026-09-26T07:21:46.220Z"
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-09-26T07:52:33.564Z",
+      "last_pushed_at": "2026-09-26T07:52:33.564Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-09-26T07:56:54.112Z",
+      "last_pushed_at": "2026-09-26T07:56:54.112Z"
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-09-26T08:05:00.706Z",
+      "last_pushed_at": "2026-09-26T08:05:00.706Z"
+    },
+    "math:33": {
+      "kind": "math",
+      "id": "33",
+      "title": "Expectation and Variance Algebra",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/33",
+      "path": "math/0033-expectation-and-variance-algebra",
+      "first_solved_at": "2026-09-26T08:23:56.844Z",
+      "last_pushed_at": "2026-09-26T08:23:56.844Z"
     }
   }
 }
