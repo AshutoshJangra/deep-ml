@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**19** solved · 14 problems · 0 labs · 5 math
+**20** solved · 15 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-10-13 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-10-13 | [solution](problems/0036-calculate-accuracy-score) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-10-13 | [solution](problems/0016-feature-scaling-implementation) |
+| [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-10-19 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2025-09-23 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-10-13 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-10-13 | [solution](problems/0045-linear-kernel-function) |
