@@ -5,16 +5,18 @@ def random_split(data: np.ndarray, train_frac: float, validation_frac: float, se
     Randomly split a dataset into train, validation, and test subsets.
     """
     # make a index array
-    # shuffle
+    # shuffle - never shuffle the original data 
     # split indices
     # filter on split indices
-    ia = np.arange(len(data))
+    n = len(data)
+    si = np.random.default_rng(seed).permutation(n)
 
-    sia = np.random.default_rng(seed).permutation(data)
+    train_end = int(n * train_frac)
+    val_end = train_end + int(n * validation_frac)
 
-    trainidx = int(len(sia) * train_frac)
+    ta = si[ : train_end]
+    va = si [ train_end : val_end]
+    tta = si [ val_end :]
 
-    validx = trainidx + int(len(sia) * validation_frac)
-
-    return [sia[:trainidx] , sia[trainidx : validx], sia[validx:]]
+    return [ data[ta], data[va], data[tta]]
     pass
