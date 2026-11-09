@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 16 problems · 0 labs · 5 math
+**22** solved · 17 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-13 | [solution](problems/0002-transpose-of-a-matrix) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-09-25 | [solution](problems/0017-k-means-clustering) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-10-20 | [solution](problems/0842-standardscaler-fit-and-transform) |
+| [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-09 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
 ## Math
 
